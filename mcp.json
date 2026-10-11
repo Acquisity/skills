@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "acquisity": {
+      "type": "http",
+      "url": "https://api.acquisity.ai/mcp"
+    }
+  }
+}

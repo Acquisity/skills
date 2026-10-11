@@ -1,0 +1,17 @@
+{
+  "name": "acquisity",
+  "owner": {
+    "name": "Acquisity",
+    "email": "support@acquisity.ai"
+  },
+  "metadata": {
+    "description": "Acquisity skills and MCP server for AI agents"
+  },
+  "plugins": [
+    {
+      "name": "acquisity",
+      "source": "./",
+      "description": "Run B2B cold email campaigns, lead search, results and CRM in Acquisity from your AI agent."
+    }
+  ]
+}

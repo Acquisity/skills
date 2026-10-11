@@ -1,0 +1,21 @@
+{
+  "name": "acquisity",
+  "version": "1.0.0",
+  "description": "Run B2B cold email campaigns, lead search, results and CRM in Acquisity from your AI agent.",
+  "author": {
+    "name": "Acquisity",
+    "email": "support@acquisity.ai",
+    "url": "https://www.acquisity.ai"
+  },
+  "homepage": "https://www.acquisity.ai/developers.md",
+  "repository": "https://github.com/Acquisity/skills",
+  "license": "MIT",
+  "keywords": [
+    "cold-email",
+    "outbound",
+    "sales",
+    "crm",
+    "mcp",
+    "lead-generation"
+  ]
+}
