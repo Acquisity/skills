@@ -1,0 +1,14 @@
+mcp.json
+  h_63c31adffd2d65 2,5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "fdec7e80a377d94176d06e4f95be70637746f04c",
+  "prompts": {},
+  "humans": {
+    "h_63c31adffd2d65": {
+      "author": "Blaise Gulaj <bgulaj@gmail.com>"
+    }
+  }
+}
